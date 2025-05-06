@@ -31,11 +31,11 @@ Visit my homepage: [myungjoo.dev](https://myungjoo.dev)
   <a href="mailto:wkdaudwn1028@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
-  <a href="https://myungjoo.dev" target="_blank">
-    <img src="https://img.shields.io/badge/myungjoo.dev-000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/>
-  </a>
   <a href="https://t.me/myungjuice" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white"/>
+  </a>
+  <a href="https://myungjoo.dev" target="_blank">
+    <img src="https://img.shields.io/badge/myungjoo.dev-000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/>
   </a>
 </div>
 
