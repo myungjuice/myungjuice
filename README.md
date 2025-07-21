@@ -23,10 +23,12 @@ Visit my homepage: [myungjoo.dev](https://myungjoo.dev)
 ## <div style="display: flex; align-items: center; gap: 12px;"><img src="https://media3.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40" style="vertical-align: middle; margin-bottom: 4px;"> Experience</div>
 
 <div align="left">
+  
 - **Ellen** - FullStack Engineer (2017.07.17 ~ 2019.06.30)
 - **D.DIVE** - FrontEnd Engineer (2019.08.12 ~ 2021.05.30)
 - **Supertree** - FrontEnd Engineer (2021.06.01 ~ 2024.12.31)
 - **CDRI** - FrontEnd Engineer (2025.07.21 ~ )
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width:100%; max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
