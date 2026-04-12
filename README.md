@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=header&text=Myungjoo%20Jang&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!" />
 </div>
@@ -20,10 +19,10 @@ Visit my homepage: [myungjoo.dev](https://myungjoo.dev)
 
 ## 💼 Experience
 
-- **Ellen** - FullStack Engineer (2017.07.17 ~ 2019.06.30)
-- **D.DIVE** - FrontEnd Engineer (2019.08.12 ~ 2021.05.30)
-- **Supertree** - FrontEnd Engineer (2021.06.01 ~ 2024.12.31)
 - **CDRI** - FrontEnd Engineer (2025.07.21 ~ )
+- **Supertree** - FrontEnd Engineer (2021.06.01 ~ 2024.12.31)
+- **D.DIVE** - FrontEnd Engineer (2019.08.12 ~ 2021.05.30)
+- **Ellen** - FullStack Engineer (2017.07.17 ~ 2019.06.30)
 
 ---
 
@@ -61,14 +60,14 @@ Visit my homepage: [myungjoo.dev](https://myungjoo.dev)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=myungjuice&show_icons=true&theme=react&hide_border=true&title_color=00E7FF&text_color=FFFFFF&icon_color=00E7FF&bg_color=0D1117" height="192px" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myungjuice&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=00E7FF&bg_color=0D1117&text_color=FFFFFF&hide=Java,PLSQL,Objective-C,Objective-C%2B%2B,Jupyter%20Notebook,Ruby,Solidity,Starlark,Sass" height="192px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=myungjuice&theme=github_dark" height="192px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myungjuice&theme=github_dark" height="192px" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner" />
 </div>
 
 <div align="center">
