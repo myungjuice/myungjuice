@@ -61,8 +61,8 @@ Visit my homepage: [myungjoo.dev](https://myungjoo.dev)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myungjuice&show_icons=true&theme=react&hide_border=true&title_color=00E7FF&text_color=FFFFFF&icon_color=00E7FF&bg_color=0D1117&border_color=00C2FF" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myungjuice&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=00E7FF&border_color=00C2FF&bg_color=0D1117&text_color=FFFFFF&icon_color=00E7FF&hide=Java,PLSQL,Objective-C,Objective-C%2B%2B,Jupyter%20Notebook,Ruby,Solidity,Starlark,Sass" height="192px" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=myungjuice&show_icons=true&theme=react&hide_border=true&title_color=00E7FF&text_color=FFFFFF&icon_color=00E7FF&bg_color=0D1117" height="192px" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=myungjuice&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=00E7FF&bg_color=0D1117&text_color=FFFFFF&hide=Java,PLSQL,Objective-C,Objective-C%2B%2B,Jupyter%20Notebook,Ruby,Solidity,Starlark,Sass" height="192px" />
 </div>
 
 ---
