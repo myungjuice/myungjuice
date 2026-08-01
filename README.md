@@ -19,7 +19,7 @@ Visit my homepage: [myungjoo.dev](https://myungjoo.dev)
 
 ## 💼 Experience
 
-- **CDRI** - FrontEnd Engineer (2025.07.21 ~ 2026.07.31)
+- **CDRI** - FrontEnd Engineer (2025.07.21 ~ 2026.08.05)
 - **Supertree** - FrontEnd Engineer (2021.06.01 ~ 2024.12.31)
 - **D.DIVE** - FrontEnd Engineer (2019.08.12 ~ 2021.05.30)
 - **Ellen** - FullStack Engineer (2017.07.17 ~ 2019.06.30)
